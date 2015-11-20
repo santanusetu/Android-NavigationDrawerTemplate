@@ -1,3 +1,3 @@
 # Android-NavigationDrawerTemplate
 
-..1. A simple easy to start navigation drawer skeleton with 3 fragments
+A simple easy to start navigation drawer skeleton with 3 fragments for Android Projects
